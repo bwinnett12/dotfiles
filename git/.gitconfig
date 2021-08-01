@@ -1,0 +1,9 @@
+[user]
+	email = bwinnett12@gmail.com
+	name = Bill Winnett
+[credential]
+	helper = cache
+[github]
+	user = bwinnett12
+[core]
+	autocrlf = input
